@@ -5,7 +5,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <p>Vi slutter om:</p>
+      <p>Neste Event:</p>
       <Timer/>
     </div>
   );
